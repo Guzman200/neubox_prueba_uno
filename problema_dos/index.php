@@ -73,6 +73,8 @@
 
                     window.location.href = 'descargar.php';
 
+                    inputArchivo.value = '';
+
                 }
             }
 

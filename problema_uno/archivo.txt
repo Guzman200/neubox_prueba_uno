@@ -1,2 +1,1 @@
-SI
-NO
+La segunda instrucción tiene letras iguales seguidas
